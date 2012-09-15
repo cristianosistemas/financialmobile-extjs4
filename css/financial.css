@@ -1,0 +1,284 @@
+.bleext-toolbar-splitter {
+	cursor: move !important;
+}
+
+.bleext-toolbar-container {
+	border: none;
+}
+
+.bleext-window .x-window-body {
+	background-color: #fff;
+}
+
+.bleext-toolbar-button .x-btn-inner {
+	text-align: left;
+}
+
+.bleext-loading-module {
+	background: #fff url(../img/loading.gif) center center no-repeat;
+}
+
+.bleext-loading-module p {
+	text-align: center;
+	margin-top: 180px;
+}
+
+.bleext-shortcuts-view .bleext-shorcuts-container {
+	overflow: auto;
+	width: 90px;
+}
+
+.bleext-shortcuts-view .bleext-shortcut {
+	float: left;
+	margin: 10px 20px 10px 20px;
+	width: 48px;
+	cursor: pointer;
+}
+
+.bleext-shortcuts-view .bleext-shortcut-over .bleext-shortcut-text {
+	text-decoration: underline;
+}
+
+.bleext-shortcuts-view .bleext-shortcut-icon img {
+	width: 48px;
+	height: 48px;
+}
+
+.bleext-shortcuts-view .bleext-shortcut .bleext-shortcut-text {
+	display: block;
+	width: 48px;
+	text-align: center;
+	color: #fff;
+}
+
+.bleext-desktop-inactive-win {
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity =                 50);
+	-moz-opacity: 0.5;
+	-khtml-opacity: 0.5;
+	opacity: 0.5;
+}
+
+.bleext-notification {
+	background: #000;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-khtml-border-radius: 10px; /* for old Konqueror browsers */
+	border-radius: 10px; /* future proofing */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity =                 60);
+	-moz-opacity: 0.6;
+	-khtml-opacity: 0.6;
+	opacity: 0.6;
+}
+
+.bleext-notification p {
+	font-weight: bold;
+	color: #fff;
+}
+
+.bleext-wallpaper-centered {
+	background: #fff center center no-repeat;
+}
+
+.bleext-wallpaper-tiled {
+	background: #fff 0 0 repeat;
+}
+
+.financial-button-evidence {
+	border-color: #3D6EB0;
+}
+
+/**icones**/
+.icone-salvar {
+	background-image: url(../img/disquete.png) !important;
+}
+
+.icone-cancelar {
+	background-image: url(../img/cancel.png) !important;
+}
+
+.seta-voltar {
+	background-image: url(../img/seta_voltar.png) !important;
+}
+
+.porta-fora {
+	background-image: url(../img/porta_fora.png) !important;
+}
+
+.icone-dinheiro {
+	background-image: url(../img/dinheiro.png) !important;
+}
+
+.icone-dinheiro-out {
+	background-image: url(../img/dinheiro_out.png) !important;
+}
+
+.icone-dinheiro-in {
+	background-image: url(../img/dinheiro_in.png) !important;
+}
+
+.icone-usuario {
+	background-image: url(../img/usuario.png) !important;
+}
+
+.icone-relatorio {
+	background-image: url(../img/relatorio.png) !important;
+}
+
+.relatorio-ir {
+	background-image: url(../img/relatorio_ir.png) !important;
+}
+
+.form-adicionar {
+	background-image: url(../img/form_adicionar.png) !important;
+}
+
+.icone-pacote {
+	background-image: url(../img/pacote.png) !important;
+}
+
+.icone-grid {
+	background-image: url(../img/grid.png) !important;
+}
+
+.icone-grafico-pizza {
+	background-image: url(../img/grafico_pizza.png) !important;
+}
+
+.icone-adicionar {
+	background-image: url(../img/adicionar.png) !important;
+}
+
+.icone-excluir {
+	background-image: url(../img/excluir.png) !important;
+}
+
+.icone-cadeado {
+	background-image: url(../img/cadeado.png) !important;
+}
+
+.icone-porta-entrando {
+	background-image: url(../img/porta_entrando.png) !important;
+}
+
+.icone-ajuda {
+	background-image: url(../img/ajuda.png) !important;
+}
+
+.icone-usuario-adic {
+	background-image: url(../img/usuario_adic.png) !important;
+}
+
+.icone-email-enviar {
+	background-image: url(../img/email_enviar.png) !important;
+}
+
+.icone-lupa {
+	background-image: url(../img/lupa.png) !important;
+}
+
+.icone-editar {
+	background-image: url(../img/editar.png) !important;
+}
+
+.icone-sifrao {
+	background-image: url(../img/sifrao.png) !important;
+}
+
+.icone-excel {
+	background-image: url(../img/excel.png) !important;
+}
+
+.icone-configuracoes {
+	background-image: url(../img/settings.png) !important;
+}
+
+.icone-software-update {
+	background-image: url(../img/software_update.png) !important;
+}
+
+.icone-dashboard {
+	background-image: url(../img/dashboard.png) !important;
+}
+
+.icone-reload2 {
+	background-image: url(../img/reload2.png) !important;
+}
+
+.icone-social {
+	background-image: url(../img/social_network.png) !important;
+}
+
+.icone-atualizar {
+	background-image: url(../img/atualizar.png) !important;
+}
+
+/**Portal**/
+#app-options .portlet-content {
+	padding: 5px;
+	font-size: 12px;
+}
+
+#app-header {
+	color: #596F8F;
+	font-size: 22px;
+	font-weight: 200;
+	padding: 8px 15px;
+	text-shadow: 0 1px 0 #fff;
+}
+
+/**sumario da grid**/
+.x-grid-row-summary {
+	color: #333;
+	background: #f1f2f4;
+}
+
+.x-grid-row-summary td {
+	border-top: 1px solid #0066CC;
+	text-align: center;
+	font-weight: bold;
+}
+
+.x-fieldset-header-checkbox {
+	width: 12px !important;
+}
+
+.no_border {
+	border: none !important;
+}
+
+/**mensagem informativa mensagem**/
+#msg-div {
+	position: absolute;
+	left: 35%;
+	top: 10px;
+	width: 300px;
+	z-index: 20000;
+}
+
+#msg-div .msg {
+	border-radius: 8px;
+	-moz-border-radius: 8px;
+	background: #F6F6F6;
+	border: 2px solid #ccc;
+	margin-top: 2px;
+	padding: 10px 15px;
+	color: #555;
+}
+
+#msg-div .msg h3 {
+	margin: 0 0 8px;
+	font-weight: bold;
+	font-size: 15px;
+}
+
+#msg-div .msg p {
+	margin: 0;
+}
+
+.row-nao-pago td{
+	color: red;
+}
+
+
